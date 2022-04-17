@@ -1,0 +1,11 @@
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\obj\Debug\SnowRunner_Save_Editor.Form1.resources
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\obj\Debug\SnowRunner_Save_Editor.Properties.Resources.resources
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\obj\Debug\SnowRunner Save Editor.csproj.GenerateResource.cache
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\obj\Debug\SnowRunner Save Editor.csproj.CoreCompileInputs.cache
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\bin\Debug\SnowRunner Save Editor.exe.config
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\bin\Debug\SnowRunner Save Editor.exe
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\bin\Debug\SnowRunner Save Editor.pdb
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\obj\Debug\SnowRunner Save Editor.exe
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\obj\Debug\SnowRunner Save Editor.pdb
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\obj\Debug\SnowRunner_Save_Editor.Form2.resources
+F:\SnowRunner Save Editor\SnowRunner Save Editor\SnowRunner Save Editor\obj\Debug\SnowRunner Save Editor.csprojAssemblyReference.cache
